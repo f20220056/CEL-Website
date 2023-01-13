@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CEL-Website/static/css/main.6fd3a389.css",
+    "main.js": "/CEL-Website/static/js/main.a9a10201.js",
+    "static/media/bits-pilani.jpeg": "/CEL-Website/static/media/bits-pilani.812cc9a9565fbc506ea3.jpeg",
+    "index.html": "/CEL-Website/index.html",
+    "main.6fd3a389.css.map": "/CEL-Website/static/css/main.6fd3a389.css.map",
+    "main.a9a10201.js.map": "/CEL-Website/static/js/main.a9a10201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd3a389.css",
+    "static/js/main.a9a10201.js"
+  ]
+}
