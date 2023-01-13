@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/CEL-Website/static/css/main.6fd3a389.css",
-    "main.js": "/CEL-Website/static/js/main.7c88e73f.js",
+    "main.css": "/CEL-Website/static/css/main.926397b7.css",
+    "main.js": "/CEL-Website/static/js/main.8b97b6e7.js",
     "static/media/bits-pilani.jpeg": "/CEL-Website/static/media/bits-pilani.812cc9a9565fbc506ea3.jpeg",
+    "static/media/arrow.png": "/CEL-Website/static/media/arrow.215d1443c12a88baab6b.png",
     "index.html": "/CEL-Website/index.html",
-    "main.6fd3a389.css.map": "/CEL-Website/static/css/main.6fd3a389.css.map",
-    "main.7c88e73f.js.map": "/CEL-Website/static/js/main.7c88e73f.js.map"
+    "main.926397b7.css.map": "/CEL-Website/static/css/main.926397b7.css.map",
+    "main.8b97b6e7.js.map": "/CEL-Website/static/js/main.8b97b6e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fd3a389.css",
-    "static/js/main.7c88e73f.js"
+    "static/css/main.926397b7.css",
+    "static/js/main.8b97b6e7.js"
   ]
 }
