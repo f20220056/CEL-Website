@@ -10,7 +10,7 @@ function Projects() {
       <Carousel.Item >
         <img
           className="d-block w-100"
-          src="http://celbits.org.in/assets/images/portfolio/conquest22.png"
+          src="https://github.com/CEL-BITSP/celbits.github.io/blob/master/assets/images/portfolio/conquest22.png?raw=true"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -21,7 +21,7 @@ function Projects() {
       <Carousel.Item >
         <img
           className="d-block w-100"
-          src="http://celbits.org.in/assets/images/portfolio/sis.jpg"
+          src="https://github.com/CEL-BITSP/celbits.github.io/blob/master/assets/images/portfolio/sis.jpg?raw=true"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -32,7 +32,7 @@ function Projects() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://celbits.org.in/assets/images/portfolio/red.jpg"
+          src="https://github.com/CEL-BITSP/celbits.github.io/blob/master/assets/images/portfolio/red.jpg?raw=true"
           alt="Third slide"
         />
         <Carousel.Caption>
@@ -45,7 +45,7 @@ function Projects() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="http://celbits.org.in/assets/images/portfolio/Eweek.png"
+          src="https://github.com/CEL-BITSP/celbits.github.io/blob/master/assets/images/portfolio/Eweek.png?raw=true"
           alt="Fourth slide"
         />
         <Carousel.Caption>
