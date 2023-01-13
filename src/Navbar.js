@@ -13,7 +13,7 @@ function NavBar() {
         <Navbar className="navbar" fixed="top" variant="dark" expand="lg">
       <Container>
         <Navbar.Brand href="#home">
-            <img width='120px' src='http://celbits.org.in/assets/images/cel2.png' />
+            <img width='120px' src='https://github.com/f20220056/CEL-Website/blob/main/assets/cel-logo.png?raw=true' />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse  className="justify-content-end" id="basic-navbar-nav">
