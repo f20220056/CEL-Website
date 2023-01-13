@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+}
+
+.form-class{
+    width: 80%;
+    margin: auto;
+}
+
+.button{
+    width: 80%;
+    margin: auto;
+    background-color: rgb(8, 8, 57);
+}
